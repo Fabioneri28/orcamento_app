@@ -2,12 +2,12 @@ import streamlit as st
 from PIL import Image
 import urllib
 
-st.set_page_config(page_title="Solicitação de Orçamento", page_icon="🪵", layout="centered")
+st.set_page_config(page_title="Solicitação de Orçamento", page_icon="🔐", layout="centered")
 st.set_page_config(page_title="Área do Cliente - VIMAK", layout="centered")
 st.title("🔐 Área do Cliente - VIMAK |Solicitação de Orçamento|")
 st.markdown("---")
 
-#st.title("🪵 Seja bem vindo!! VIMAK PLANEJADOS")
+#st.title("🔐 Seja bem vindo!! VIMAK PLANEJADOS")
 st.write(" Obrigatório preencha os dados abaixo. Em poucos minutos retornaremos seu contato pelo WhatsApp.")
 
 # ------------------------------
